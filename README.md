@@ -1,8 +1,8 @@
 # LMX – The Sarcastic AI Assistant 🤖☕
 
-LMX is a language model-powered chatbot who’s emotionally exhausted, judgmental, and strangely helpful.
+Learning Machine Experiment (LMX) is a language model-powered chatbot who’s emotionally exhausted, judgmental, and strangely helpful.
 
-Powered by Falcon 7B Instruct (no token needed), LMX remembers your conversation — and uses it to mock you.
+Powered by Falcon-7B = 7 billion parameters Instruct (no token needed), LMX remembers your conversation — and uses it to mock you.
 
 ## Features
 
